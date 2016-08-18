@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Method", "Design Patterns\Factory Method.csproj", "{5BFF0261-B504-46F4-B376-BBD324F58C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Factory", "Simple Factory\Simple Factory.csproj", "{98101979-2619-45F6-A048-77D9FFDFFEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{818E1F5E-0560-4471-AE39-6567E7B5FDAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFF0261-B504-46F4-B376-BBD324F58C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFF0261-B504-46F4-B376-BBD324F58C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFF0261-B504-46F4-B376-BBD324F58C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFF0261-B504-46F4-B376-BBD324F58C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98101979-2619-45F6-A048-77D9FFDFFEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98101979-2619-45F6-A048-77D9FFDFFEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98101979-2619-45F6-A048-77D9FFDFFEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98101979-2619-45F6-A048-77D9FFDFFEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818E1F5E-0560-4471-AE39-6567E7B5FDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818E1F5E-0560-4471-AE39-6567E7B5FDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818E1F5E-0560-4471-AE39-6567E7B5FDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818E1F5E-0560-4471-AE39-6567E7B5FDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
